@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 💰 Monev
@@ -181,3 +182,7 @@ Dibuat sebagai tugas mata kuliah **Mobile Development** — Program Studi Sistem
 <div align="center">
   <sub>Built with 💚 using Flutter & Firebase</sub>
 </div>
+=======
+# monev
+Monev merupakan aplikasi personal finance tracker yang membantu pengguna mencatat pemasukan dan pengeluaran, mengelola kategori transaksi, memantau kondisi keuangan, serta mengevaluasi kebiasaan finansial melalui statistik sederhana.
+>>>>>>> bbc0a8d5b7f5aca0d61f4df8ae5c4541c4764dcc
