@@ -44,10 +44,9 @@ Dibangun sebagai tugas mata kuliah **Mobile Development**.
 
 <div align="center">
 
-| Login | Dashboard | Statistik |
+| Kategori | Dashboard | Transaksi |
 |:---:|:---:|:---:|
-| _tambahkan screenshot_ | _tambahkan screenshot_ | _tambahkan screenshot_ |
-
+| ![Login](screenshots/kategori.png) | ![Dashboard](screenshots/dashboard.png) | ![Statistik](screenshots/transaksi.png) |
 </div>
 
 ## 🏗️ Struktur Proyek
