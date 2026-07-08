@@ -46,7 +46,7 @@ Dibangun sebagai tugas mata kuliah **Mobile Development**.
 
 | Kategori | Dashboard | Transaksi |
 |:---:|:---:|:---:|
-| ![Login](screenshots/kategori.png) | ![Dashboard](screenshots/dashboard.png) | ![Statistik](screenshots/transaksi.png) |
+| ![Login](screenshots/kategori.jpeg) | ![Dashboard](screenshots/dashboard.jpeg) | ![Statistik](screenshots/transaksi.jpeg) |
 </div>
 
 ## 🏗️ Struktur Proyek
